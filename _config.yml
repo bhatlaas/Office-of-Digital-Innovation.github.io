@@ -1,8 +1,8 @@
 # Setup
-title:            office-of-digital-innovation.github.io.github.io
+title:            office-of-digital-innovation.github.io
 tagline:          'CHHS Data'
 description:      'California Health & Human Services Agency'
-url:              https://office-of-digital-innovation.github.io.github.io
+url:              https://office-of-digital-innovation.github.io
 
 author:
   name:           'California Health & Human Services Agency'
@@ -10,4 +10,4 @@ author:
 
 # Custom vars
 github:
-  repo:           https://github.com/Office-of-Digital-Innovation/office-of-digital-innovation.github.io.github.io
+  repo:           https://github.com/Office-of-Digital-Innovation/office-of-digital-innovation.github.io
